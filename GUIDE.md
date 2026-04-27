@@ -8,6 +8,14 @@ Source basis:
 - `docs/brotology/BROTOLOGISTS_LOG_2026-04-23.md`
 - `docs/ASSOCIATIVE_SURFACES_CONTINUITY_INDEX_2026-04-22.md`
 
+## KONGdum Companion
+
+`KONGdum` (`Brotology 101`) on Suno is part of the current Brotology field-ops packet:
+
+https://suno.com/playlist/62688394-2144-4c20-bf24-9d201899b9ae
+
+Full local pulls are expected to download it into `external_media/kongdum_playlist/` and carry `Unified AI Tool Prompt - Senzu Bean.txt` with the docs.
+
 ## One-Sentence Read
 
 `brotology` is the operator-language overlay for moving through complex, dynamic work without pretending the field is static or that the joke layer replaces the actual machinery.

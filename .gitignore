@@ -1,0 +1,11 @@
+# Python packaging artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# Local-only KONGdum playlist download payloads
+external_media/kongdum_playlist/*
+!external_media/kongdum_playlist/README.md

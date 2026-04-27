@@ -13,6 +13,14 @@ Collate the current Brotology and kinetic-architecture lane into one reopen surf
 - a reviewing model
 - a skeptical technical reader
 
+## KONGdum Companion
+
+`KONGdum` (`Brotology 101`) on Suno is part of the current Brotology field-ops packet:
+
+https://suno.com/playlist/62688394-2144-4c20-bf24-9d201899b9ae
+
+Full local pulls are expected to download it into `external_media/kongdum_playlist/` and carry `Unified AI Tool Prompt - Senzu Bean.txt` with the docs.
+
 ## Bottom Line
 
 The current agenda is:

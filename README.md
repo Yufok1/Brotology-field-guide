@@ -1,6 +1,6 @@
 # Brotology
 
-Brotology is what happens when a continuity discipline grows a sense of humor and, against all odds, keeps its measurements.
+Brotology is a conveyance resource for humans and machines: whatever needs to be carried should pass through it without getting prettier than the truth.
 
 This is a field guide for moving through complex systems without pretending you understand them just because you learned a new noun.
 
@@ -8,9 +8,71 @@ The jokes are here because the work is real. If the work were fake, the jokes wo
 
 Thumb rule: the dumb rule that still grows things.
 
+## Install
+
+Use it as a Python package:
+
+```bash
+pip install brotology-field-guide
+```
+
+Or install straight from GitHub while the package is still moving:
+
+```bash
+pip install git+https://github.com/Yufok1/Brotology-field-guide.git
+```
+
+## What The Package Gives You
+
+The pip package exposes four practical surfaces:
+
+- callable conveyance helpers such as `softblow()` and `convey()`
+- lightweight drift inspection via `canon_check()`
+- packaged guide documents you can load from Python or the CLI
+- operator prompts for AI systems, including a bad-news expectation-management mode
+- a small `brotology` command-line tool for reading docs and prompts quickly
+
+Python example:
+
+```python
+from brotology_field_guide import (
+    canon_check,
+    convey,
+    get_bad_news_operator_prompt,
+    list_resources,
+    read_resource,
+    softblow,
+)
+
+prompt = get_bad_news_operator_prompt()
+guide = read_resource("GUIDE.md")
+resources = list_resources()
+message = softblow("The deploy failed.", state="the logs are honest")
+report = canon_check("Big Toy is the controller")
+idle = convey(state="build green, no delta")
+```
+
+CLI example:
+
+```bash
+brotology list
+brotology read GUIDE.md
+brotology prompt bad-news
+brotology softblow "The deploy failed." --state "the logs are honest"
+brotology canon-check "Big Toy is the controller"
+```
+
+## KONGdum Field Audio
+
+`KONGdum` (`Brotology 101`) is the active Brotology field-ops companion playlist on Suno:
+
+https://suno.com/playlist/62688394-2144-4c20-bf24-9d201899b9ae
+
+Full local pulls are expected to download it into `external_media/kongdum_playlist/`. The package also carries `Unified AI Tool Prompt - Senzu Bean.txt` as a relay surface.
+
 ## What This Repository Is
 
-This repository is a docs-first public guide to `brotology`: an operator-language overlay for working through dynamic systems with real continuity, real sequencing, and real measurement.
+This repository is a docs-first public guide and pip package for `brotology`: a callable conveyance layer for working through dynamic systems with real continuity, real sequencing, and real measurement.
 
 It is not:
 
@@ -57,11 +119,16 @@ That gives you:
 
 | File | Purpose |
 |---|---|
+| `pyproject.toml` | packaging metadata for `pip install` and Python tooling |
+| `src/brotology_field_guide/` | installable Python interface for conveyance, docs, and operator prompts |
 | `GUIDE.md` | beginner-facing explanation of Brotology |
 | `OPERATIONAL_SURFACE.md` | one-surface summary of the current agenda and doc map |
 | `FIELD_OPERATIONS_MANUAL.md` | main operator-language manual |
 | `BROTOLOGISTS_LOG.md` | cultural continuity and accepted lore residue |
 | `VISUAL_SYSTEMS_DIAGNOSTICS.md` | how diagrams and visual claims are judged |
+| `external_media/kongdum_playlist/README.md` | required local `KONGdum` playlist pull instructions |
+| `Unified AI Tool Prompt - Senzu Bean.txt` | portable relay prompt carried with the package |
+| built-in prompt `bad-news` | expectation-management operator surface for AI systems |
 | `LICENSE` | `CC0-1.0` public-domain dedication |
 
 ## The Fast Read

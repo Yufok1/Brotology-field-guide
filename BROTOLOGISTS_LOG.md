@@ -23,6 +23,14 @@ This log is not:
 - a substitute for `query_thread`, `output_state`, `pan_probe`, or reports
 - proof of external continuity beyond what the operator pasted here
 
+## KONGdum Companion
+
+`KONGdum` (`Brotology 101`) on Suno is part of the current Brotology field-ops packet:
+
+https://suno.com/playlist/62688394-2144-4c20-bf24-9d201899b9ae
+
+Full local pulls are expected to download it into `external_media/kongdum_playlist/` and carry `Unified AI Tool Prompt - Senzu Bean.txt` with the docs.
+
 ## Source Boundary
 
 Imported on `2026-04-23` from operator-provided pasted chat residue.

@@ -14,6 +14,14 @@ This document is an operator-language overlay.
 It does not replace canonical runtime names.
 It does not create a second authority plane.
 
+## KONGdum Companion
+
+`KONGdum` (`Brotology 101`) on Suno is part of the current Brotology field-ops packet:
+
+https://suno.com/playlist/62688394-2144-4c20-bf24-9d201899b9ae
+
+Full local pulls are expected to download it into `external_media/kongdum_playlist/` and carry `Unified AI Tool Prompt - Senzu Bean.txt` with the docs.
+
 ## Bottom Line
 
 `brotology` is the field language for operators mechanizing their way through dynamic domains of expertise.

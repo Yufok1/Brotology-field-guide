@@ -1,0 +1,68 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "brotology-field-guide"
+version = "0.1.0"
+description = "A continuity-grounded conveyance resource for humans and AI systems."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "CC0-1.0" }
+authors = [
+  { name = "Yufok1" },
+]
+keywords = [
+  "ai",
+  "continuity",
+  "docs",
+  "field-guide",
+  "operations",
+  "prompting",
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Other Audience",
+  "License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: Documentation",
+  "Topic :: Software Development :: Libraries :: Python Modules",
+  "Topic :: Utilities",
+]
+
+[project.urls]
+Homepage = "https://github.com/Yufok1/Brotology-field-guide"
+Repository = "https://github.com/Yufok1/Brotology-field-guide"
+Issues = "https://github.com/Yufok1/Brotology-field-guide/issues"
+
+[project.scripts]
+brotology = "brotology_field_guide.cli:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+include-package-data = true
+license-files = ["LICENSE"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+brotology_field_guide = ["py.typed"]
+
+[tool.setuptools.data-files]
+"share/brotology_field_guide" = [
+  "README.md",
+  "GUIDE.md",
+  "OPERATIONAL_SURFACE.md",
+  "FIELD_OPERATIONS_MANUAL.md",
+  "BROTOLOGISTS_LOG.md",
+  "VISUAL_SYSTEMS_DIAGNOSTICS.md",
+  "LICENSE",
+  "Unified AI Tool Prompt - Senzu Bean.txt",
+]
+"share/brotology_field_guide/external_media/kongdum_playlist" = [
+  "external_media/kongdum_playlist/README.md",
+]
