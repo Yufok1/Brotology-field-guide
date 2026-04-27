@@ -1,0 +1,9 @@
+include README.md
+include GUIDE.md
+include OPERATIONAL_SURFACE.md
+include FIELD_OPERATIONS_MANUAL.md
+include BROTOLOGISTS_LOG.md
+include VISUAL_SYSTEMS_DIAGNOSTICS.md
+include LICENSE
+global-include *.txt
+recursive-include external_media/kongdum_playlist README.md

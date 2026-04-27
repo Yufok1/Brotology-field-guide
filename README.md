@@ -62,6 +62,28 @@ brotology softblow "The deploy failed." --state "the logs are honest"
 brotology canon-check "Big Toy is the controller"
 ```
 
+## Publishing
+
+The repo is wired for GitHub-linked PyPI publishing through GitHub Actions Trusted Publishing.
+
+Release shape:
+
+1. bump the package version
+2. push the commit to `main`
+3. push a tag like `v0.1.0`
+4. GitHub Actions builds the package and publishes it to PyPI
+
+One manual setup step is still required on PyPI before the first release:
+
+- create a PyPI project or pending publisher for `brotology-field-guide`
+- configure a GitHub Actions trusted publisher for:
+  - owner: `Yufok1`
+  - repository: `Brotology-field-guide`
+  - workflow: `.github/workflows/publish.yml`
+  - environment: `pypi`
+
+After that, Git tags are the update lane.
+
 ## KONGdum Field Audio
 
 `KONGdum` (`Brotology 101`) is the active Brotology field-ops companion playlist on Suno:
