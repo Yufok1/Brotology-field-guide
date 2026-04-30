@@ -151,6 +151,7 @@ That gives you:
 | `BROTOLOGISTS_LOG.md` | cultural continuity and accepted lore residue |
 | `VISUAL_SYSTEMS_DIAGNOSTICS.md` | how diagrams and visual claims are judged |
 | `SHUTTER_ADRENALINE_NAME_REHABILITATION_2026-04-29.md` | bounded name correction for `adrenaline` and `shutter` |
+| `CONVERGENCE_PANTHEON_CONTROL_ANNALS_2026-04-30.md` | Convergence Engine organism naming and control-language teaching annal |
 | late-April `*_2026-04-2*.md` field logs | Atrai, Source HOLD, clipboard relay, Kleene, rotation-snake, language-access, and related continuity logs |
 | `external_media/kongdum_playlist/README.md` | required local `KONGdum` playlist pull instructions |
 | `Unified AI Tool Prompt - Senzu Bean.txt` | portable relay prompt carried with the package |

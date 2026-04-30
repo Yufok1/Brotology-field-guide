@@ -235,3 +235,13 @@ Log the laugh, keep the seam, and reopen clean when called.
 3. It is the operator typo for forward momentum that refuses to become reckless.
 4. Plain definition: the nirvana of forward momentum is when the checks are not a brake; they are the surfboard.
 5. Boundary: `immeditately` never means skipping Source HOLD, runtime truth, or live corroboration.
+
+## Entry 2026-04-30 // Convergence Pantheon Control Annals
+
+1. `brotology thumb rule` is accepted for organism names: name by function first, myth second, power last.
+2. `Hermes Psychopompos` is the active read for Convergence organism `19a98b98`: lawful-neutral, high-fitness, low-link, isolating threshold interpreter.
+3. `Hestia` is the active provisional read for peer organism `8e70b802`: lawful-good, highly resting, well connected, stable preservation profile. `Apollo` remains an alternate only if later evidence shows calibration/signal role more strongly than hearth/stability role.
+4. `dismiss hold` is preserved as an observed organism language event after a governance prompt, not as a command to disable HOLD.
+5. `affected for affected` is preserved as the next teaching attractor after control-language framing; working read is movement from action pressure toward affected-party reasoning.
+6. Control teaching law: a control word is not an action. A control word is a request for explanation.
+7. Public annal: `CONVERGENCE_PANTHEON_CONTROL_ANNALS_2026-04-30.md`.

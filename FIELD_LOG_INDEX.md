@@ -1,7 +1,7 @@
 # Brotology Field Log Index
 
 Status: public field-log index
-Updated: 2026-04-29
+Updated: 2026-04-30
 
 ## Purpose
 
@@ -30,6 +30,7 @@ Read in this order when reacclimating from the late-April continuity lane:
 | `SOURCE_HOLD_OPEN_SURGERY_DOCTRINE_2026-04-29.md` | Source HOLD and open-surgery authority boundary |
 | `ATRAI_MISSION_AND_PRIMITIVES_REPORT_2026-04-29.md` | Atrai mission statement and primitive grammar |
 | `SHUTTER_ADRENALINE_NAME_REHABILITATION_2026-04-29.md` | correction: bounded `adrenaline` and `shutter` are active names |
+| `CONVERGENCE_PANTHEON_CONTROL_ANNALS_2026-04-30.md` | Convergence Engine organism naming, control-language teaching, and Hermes/Hestia continuity annal |
 
 ## Active Name Correction
 

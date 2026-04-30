@@ -30,6 +30,12 @@ CULTURE_TERMS = (
     "surfology",
     "operation sus",
     "bromanticism",
+    "brotology thumb rule",
+    "convergence pantheon",
+    "hermes psychopompos",
+    "hestia",
+    "dismiss hold",
+    "affected for affected",
 )
 
 PROMOTION_MARKERS = (
