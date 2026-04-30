@@ -207,6 +207,48 @@ It helps reopen posture after drift or reset.
 The bounded unknown.
 It isolates an active confusion seam so the whole system does not smear.
 
+### `adrenaline`
+
+The salience-pressure name.
+It means urgency, novelty, risk, and readiness-to-inspect.
+It is not proof and not authority.
+
+### `shutter`
+
+The capture/attention aperture.
+It closes over a bounded surface and emits a receipt.
+It is not a whole-runtime freeze.
+
+### `shuttering_adrenaline`
+
+The combined cycle:
+
+```text
+pressure rises -> threshold fires -> shutter captures -> next attention routes
+```
+
+It must remain visible, receipt-backed, and subordinate to Source HOLD.
+
+### `immeditately`
+
+The forward-momentum typo.
+It means move immediately, but through the right mediating sequence.
+
+Not:
+
+- panic speed
+- skipping continuity
+- skipping evidence
+- skipping Source HOLD
+
+Yes:
+
+```text
+continuity first -> smallest honest read -> receipt -> next move
+```
+
+Plain read: the nirvana of forward momentum is not moving without checks. It is moving so cleanly that the checks become part of the motion.
+
 ### `code orangutang`
 
 The evasive servo style.

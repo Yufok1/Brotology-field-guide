@@ -4,6 +4,11 @@ include OPERATIONAL_SURFACE.md
 include FIELD_OPERATIONS_MANUAL.md
 include BROTOLOGISTS_LOG.md
 include VISUAL_SYSTEMS_DIAGNOSTICS.md
+include FIELD_LOG_INDEX.md
+include *_2026-04-26.md
+include *_2026-04-27.md
+include *_2026-04-28.md
+include *_2026-04-29.md
 include LICENSE
 global-include *.txt
 recursive-include external_media/kongdum_playlist README.md

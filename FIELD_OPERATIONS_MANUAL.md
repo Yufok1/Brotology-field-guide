@@ -376,6 +376,7 @@ Use this table as the clean translation face between Brotology language and cano
 | elemental armor | `skin_service` | downstream embodiment translator |
 | witness plate | `capture_supercam` / `supercam` | external browser-visible corroboration |
 | body shutter | `text_theater_embodiment` | local body/contact read |
+| immeditately | `continuity_restore` + evidence order + receipts | move now through the required sequence |
 | route slate | consult blackboard | active query-work board |
 | bounded scout | `Dreamer` | proposal / ranking lane |
 | latch | `HOLD` | bounded intervention / hold seam |
@@ -411,12 +412,13 @@ Disallowed use:
 - mutating API/help names ad hoc
 - hiding canonical surfaces under metaphor when precision matters
 
-Keep deprecated continuity labels retired:
+Name correction:
 
-- `adrenaline`
-- abstract continuity-side `shutter`
+- `adrenaline` is active as bounded salience pressure: urgency, novelty, risk, and readiness-to-inspect
+- `shutter` is active as bounded capture/attention aperture: a receipt-emitting freeze-frame over a specific surface
+- ungated adrenaline/shutter mythology remains retired
 
-Use the current canon names when precision is needed.
+Use the current canon names when precision is needed, but do not suppress `adrenaline` or `shutter` when they are the clearest operator names for pressure and capture.
 
 ## Operational Example
 

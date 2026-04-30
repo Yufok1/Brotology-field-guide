@@ -76,6 +76,10 @@ The relevant seams are:
 | What is the facility concept? | `BROHANDOSKYGIVINGFACILITY_FIELD_CONCEPT_2026-04-23.md` |
 | What is peril-mode translation? | `CIVIC_PROTECTION_LATTICE_SPEC_2026-04-23.md` |
 | How should diagrams be judged? | `VISUAL_SYSTEMS_DIAGNOSTICS_2026-04-23.md` |
+| What changed after continuity? | `FIELD_LOG_INDEX.md` |
+| Are `adrenaline` and `shutter` still valid? | `SHUTTER_ADRENALINE_NAME_REHABILITATION_2026-04-29.md` |
+| What is Source HOLD / open surgery? | `SOURCE_HOLD_OPEN_SURGERY_DOCTRINE_2026-04-29.md` |
+| What is the current Atrai mission/primitives read? | `ATRAI_MISSION_AND_PRIMITIVES_REPORT_2026-04-29.md` |
 
 ## Current Architecture Read
 
@@ -106,6 +110,8 @@ The relevant seams are:
 5. The economic substrate must remain non-extractive.
 6. The protection translation must stay civic and utility-focused.
 7. The simulation lane still flows through `open_pit_mine / switchback_relay / outer_panel_wave / lobby_proof` until revised.
+8. `adrenaline` and `shutter` are active bounded names, not banned words.
+9. Source HOLD remains the human authority boundary.
 
 ## Visual Diagnostic Core
 
@@ -128,8 +134,9 @@ On reopen:
 2. read the manual
 3. read the log
 4. read the diagnostics sheet
-5. read whichever concept brief matches the active seam
-6. drop back into the report / dossier / registry lane for engineering detail
+5. read `FIELD_LOG_INDEX.md`
+6. read whichever concept brief matches the active seam
+7. drop back into the report / dossier / registry lane for engineering detail
 
 ## Next Honest Artifact
 
@@ -154,6 +161,10 @@ Reason:
 - `docs/brotology/ECONOMIC_SUBSTRATE_NON_EXTRACTION_NOTE_2026-04-23.md`
 - `docs/brotology/BROHANDOSKYGIVINGFACILITY_FIELD_CONCEPT_2026-04-23.md`
 - `docs/brotology/CIVIC_PROTECTION_LATTICE_SPEC_2026-04-23.md`
+- `docs/brotology/FIELD_LOG_INDEX.md`
+- `docs/brotology/SHUTTER_ADRENALINE_NAME_REHABILITATION_2026-04-29.md`
+- `docs/brotology/SOURCE_HOLD_OPEN_SURGERY_DOCTRINE_2026-04-29.md`
+- `docs/brotology/ATRAI_MISSION_AND_PRIMITIVES_REPORT_2026-04-29.md`
 - `docs/brotology/HIGH_YIELD_BROSPECULATION_CANYON_SPAN_SIMULATION_PRIMITIVES_REPORT_2026-04-23.md`
 - `docs/brotology/CARRIER_FORTRESS_CANYON_SPAN_PLANNING_DOSSIER_2026-04-23.md`
 - `docs/brotology/CANYON_SPAN_PRIMITIVE_REGISTRY_SPEC_2026-04-23.md`

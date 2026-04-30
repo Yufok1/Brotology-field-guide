@@ -212,3 +212,26 @@ Default carry-forward rule:
 
 The bit survived because the meaning was under it.
 Log the laugh, keep the seam, and reopen clean when called.
+
+## Entry 2026-04-29 // Shutter And Adrenaline Rehabilitated
+
+1. The operator clarified that the prior deprecation of `adrenaline` and abstract continuity-side `shutter` came from frustration, not final doctrine.
+2. Corrected read: `adrenaline` is bounded salience pressure. `shutter` is bounded capture/attention aperture. The banned thing is ungated mythology, not the names.
+3. Working cycle: pressure rises, threshold fires, shutter captures, receipt emits, next attention routes.
+4. Boundary: no hidden autonomous runtime, no silent mutation, no whole-runtime freeze, no bypass around Source HOLD.
+5. Public index: `SHUTTER_ADRENALINE_NAME_REHABILITATION_2026-04-29.md`.
+
+## Entry 2026-04-29 // Continuity Field Logs Added
+
+1. Late-April continuity logs were promoted into the public field guide as recoverable field logs.
+2. The new guide surface is `FIELD_LOG_INDEX.md`.
+3. Current added lanes include Atrai mission/primitives, Source HOLD/open surgery, clipboard relay, Kleene-star run, rotation snake, roots-mullet hair surface, language-access, and shutter/adrenaline rehabilitation.
+4. These are continuity surfaces and operator-language field notes. They do not outrank source, runtime, measured state, or human Source HOLD.
+
+## Entry 2026-04-29 // Immeditately
+
+1. `immeditately` is accepted as a Brotology carry term.
+2. Working read: immediate motion plus mediation. Move now, but through continuity, evidence order, and receipts.
+3. It is the operator typo for forward momentum that refuses to become reckless.
+4. Plain definition: the nirvana of forward momentum is when the checks are not a brake; they are the surfboard.
+5. Boundary: `immeditately` never means skipping Source HOLD, runtime truth, or live corroboration.

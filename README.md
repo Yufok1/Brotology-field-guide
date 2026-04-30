@@ -128,7 +128,8 @@ If you are new, read these in order:
 1. `GUIDE.md`
 2. `OPERATIONAL_SURFACE.md`
 3. `FIELD_OPERATIONS_MANUAL.md`
-4. `BROTOLOGISTS_LOG.md`
+4. `FIELD_LOG_INDEX.md`
+5. `BROTOLOGISTS_LOG.md`
 
 That gives you:
 
@@ -146,8 +147,11 @@ That gives you:
 | `GUIDE.md` | beginner-facing explanation of Brotology |
 | `OPERATIONAL_SURFACE.md` | one-surface summary of the current agenda and doc map |
 | `FIELD_OPERATIONS_MANUAL.md` | main operator-language manual |
+| `FIELD_LOG_INDEX.md` | continuity-derived field log index and late-April read order |
 | `BROTOLOGISTS_LOG.md` | cultural continuity and accepted lore residue |
 | `VISUAL_SYSTEMS_DIAGNOSTICS.md` | how diagrams and visual claims are judged |
+| `SHUTTER_ADRENALINE_NAME_REHABILITATION_2026-04-29.md` | bounded name correction for `adrenaline` and `shutter` |
+| late-April `*_2026-04-2*.md` field logs | Atrai, Source HOLD, clipboard relay, Kleene, rotation-snake, language-access, and related continuity logs |
 | `external_media/kongdum_playlist/README.md` | required local `KONGdum` playlist pull instructions |
 | `Unified AI Tool Prompt - Senzu Bean.txt` | portable relay prompt carried with the package |
 | built-in prompt `bad-news` | expectation-management operator surface for AI systems |
@@ -170,6 +174,8 @@ Shortest honest read:
 - `field utility` = know what is load-bearing and what is decorative
 - `dark-field caution lanes` = watch for distortion, hoarding, and fake sovereignty
 - `derived fringe fields` = useful operator overlays that remain subordinate to canon
+- `adrenaline` = bounded salience pressure
+- `shutter` = bounded capture/attention aperture
 
 ## Canon And Culture
 
