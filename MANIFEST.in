@@ -9,6 +9,7 @@ include *_2026-04-26.md
 include *_2026-04-27.md
 include *_2026-04-28.md
 include *_2026-04-29.md
+include *_2026-05-04.md
 include LICENSE
 global-include *.txt
 recursive-include external_media/kongdum_playlist README.md

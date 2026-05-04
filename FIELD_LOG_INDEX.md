@@ -1,7 +1,7 @@
 # Brotology Field Log Index
 
 Status: public field-log index
-Updated: 2026-04-30
+Updated: 2026-05-04
 
 ## Purpose
 
@@ -31,6 +31,9 @@ Read in this order when reacclimating from the late-April continuity lane:
 | `ATRAI_MISSION_AND_PRIMITIVES_REPORT_2026-04-29.md` | Atrai mission statement and primitive grammar |
 | `SHUTTER_ADRENALINE_NAME_REHABILITATION_2026-04-29.md` | correction: bounded `adrenaline` and `shutter` are active names |
 | `CONVERGENCE_PANTHEON_CONTROL_ANNALS_2026-04-30.md` | Convergence Engine organism naming, control-language teaching, and Hermes/Hestia continuity annal |
+| `CHAMPION_COUNCIL_BROTOLOGY_CONTINUITY_LINK_FIELD_REPORT_2026-05-04.md` | Champion Council / Convergence / Platinum DKP continuity bridge; includes Pi Bag audio-emote ladder and safety boundaries |
+| `RAY_VARIABLE_REGISTRY_AND_PI_BAG_AUDIO_EMOTES_2026-05-04.md` | symbolic constant registry for ray variables, potential bag-percent easter eggs, audio emotes, and Quinesmith continuity logic |
+| `HANDO_SOUNDTRACK_GITHUB_FREE_LANE_2026-05-04.md` | brohandoism soundtrack policy for GitHub: original/free/licensed material only, covers as honorable mentions only |
 
 ## Active Name Correction
 
@@ -65,3 +68,12 @@ Reject only the ungated mythology:
 - forward momentum through the correct sequence
 - continuity-first acceleration
 - the surfology version of "go now, but do not skip the wave face"
+
+## Live Audio Terms
+
+- `kaching` = normal coin drop; operator baseline
+- `kachinky` = tiny coin wink
+- `kachoinky` = stretched squeeze / suspense payout
+- `kachonky` = heavy mythic loot impact
+- `KACHONGUS` = raid-wide economic thunderclap; receipts required
+- `kapinky` = exit flourish when the receipt exists
