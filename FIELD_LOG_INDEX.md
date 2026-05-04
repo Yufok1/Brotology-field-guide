@@ -32,6 +32,7 @@ Read in this order when reacclimating from the late-April continuity lane:
 | `SHUTTER_ADRENALINE_NAME_REHABILITATION_2026-04-29.md` | correction: bounded `adrenaline` and `shutter` are active names |
 | `CONVERGENCE_PANTHEON_CONTROL_ANNALS_2026-04-30.md` | Convergence Engine organism naming, control-language teaching, and Hermes/Hestia continuity annal |
 | `CHAMPION_COUNCIL_BROTOLOGY_CONTINUITY_LINK_FIELD_REPORT_2026-05-04.md` | Champion Council / Convergence / Platinum DKP continuity bridge; includes Pi Bag audio-emote ladder and safety boundaries |
+| `WHEAT_FARM_CONTINUITY_IDEATION_REPORT_2026-05-04.md` | public-signal joke rebound analytics; defines RCI, event windows, value-only correlation, and ray-variable amount boundaries |
 | `RAY_VARIABLE_REGISTRY_AND_PI_BAG_AUDIO_EMOTES_2026-05-04.md` | symbolic constant registry for ray variables, potential bag-percent easter eggs, audio emotes, and Quinesmith continuity logic |
 | `HANDO_SOUNDTRACK_GITHUB_FREE_LANE_2026-05-04.md` | brohandoism soundtrack policy for GitHub: original/free/licensed material only, covers as honorable mentions only |
 
